@@ -1,4 +1,4 @@
-(ns advent.day-1)
+(ns advent.2017.day-1)
 
 (defn str->digits [s]
   (map #(Character/getNumericValue %) s))

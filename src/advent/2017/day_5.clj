@@ -1,4 +1,4 @@
-(ns advent.day-5)
+(ns advent.2017.day-5)
 
 
 (defn jump [v n]

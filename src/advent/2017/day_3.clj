@@ -1,4 +1,4 @@
-(ns advent.day-3
+(ns advent.2017.day-3
   (:require [clojure.math.numeric-tower :as math]))
 
 (defn nearest-odd-square-root [n]

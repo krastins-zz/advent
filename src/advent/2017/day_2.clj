@@ -1,4 +1,4 @@
-(ns advent.day-2
+(ns advent.2017.day-2
   (:require [clojure.string :refer [split split-lines]]
             [clojure.math.combinatorics :refer [combinations]]))
 
